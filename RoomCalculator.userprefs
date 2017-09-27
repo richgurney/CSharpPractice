@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{7AA51CD4-C5FD-41D1-B1C1-29A458512039}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RoomCalculator/Square.cs">
+    <Files>
+      <File FileName="RoomCalculator/Program.cs" Line="24" Column="55" />
+      <File FileName="RoomCalculator/Square.cs" Line="11" Column="35" />
+      <File FileName="RoomCalculator/Circle.cs" Line="27" Column="1" />
+      <File FileName="RoomCalculator/Shape.cs" Line="14" Column="44" />
+      <File FileName="RoomCalculator/AreaCalculator.cs" Line="32" Column="3" NotebookId="1" />
+      <File FileName="RoomCalculator/IDescribable.cs" Line="9" Column="1" NotebookId="1" />
+      <File FileName="RoomCalculator/IArea.cs" Line="9" Column="1" NotebookId="1" />
+      <File FileName="RoomCalculator/Rectangle.cs" Line="11" Column="1" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.RoomCalculator PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
